@@ -1,6 +1,6 @@
 
 
-## **Contributors: Eriel Kabambi, Oliviera Wanderson 
+## **Contributors: Eriel Kabambi, Wanderson Oliveira 
 
 ### Description
 This project involves constructing an Extract, Transform, Load (ETL) pipeline utilizing Python and Pandas. 
